@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'IranSans';
+    src: url(../font/iran_sans.eot?#) format('eot'), /* IE6â€“8 */
+    url(../font/iran_sans.woff) format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url(../font/iran_sans.ttf) format('truetype');  /* Saf3â€”5, Chrome4+, FF3.5, Opera 10+ */
+}
